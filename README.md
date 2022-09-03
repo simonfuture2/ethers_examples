@@ -1,5 +1,5 @@
 # Ethers.js by Example
-Learn how to use ethers.js from these examples
+Learn how to use ethers.js from these examples. Smart contract development is best through practice and repitition. Use these below examples to practice running scripts.
 
 ## Technology Stack & Tools
 
